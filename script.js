@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Pergunta 1",
+    enunciado: "Você prefere carro ou moto?",
     alternativas: [
         {
-            texto:"Alternativa 1",
+            texto:"Carro",
             afirmacao: "Afirmação 1"
         },
         {
-        texto:"Alternativa 2",
+        texto:"Moto",
         afirmacao: "Afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "Kayblac ou Mc IG",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
+        texto: "Kayblac",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
+        texto:"MC IG",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 3",
+    enunciado: "Educação física ou Matemática",
     alternativas: [
         {
-        texto:"Alternativa 1 da pergunta 3",
+        texto:"Educação física",
         afirmacao: "Afirmação 1 da pergunta 3"
         },
         {
-        texto:"Alternativa 2 da pergunta 3",
+        texto:"Matemática",
         afirmacao: "Afirmação 2 da pergunta 3"
         }
     ]
