@@ -6,44 +6,44 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Pergunta 1",
+    enunciado: "Qual é a melhor msc do paiva?",
     alternativas: [
         {
-            texto:"Alternativa 1",
-            afirmacao: "Afirmação 1"
+            texto:"Givenchy",
+            afirmacao: "Excelente gosto"
         },
         {
-        texto:"Alternativa 2",
-        afirmacao: "Afirmação 2"
+        texto:"Magnata",
+        afirmacao: "É, até q vai"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "Carro ou moto?",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
-        afirmacao: "Afirmação 1 da pergunta 2"
+        texto: "Carro",
+        afirmacao: "Ent vc é 308"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
-        afirmacao: "Afirmação 2 da pergunta 2"
+        texto:"Moto",
+        afirmacao: "Ent vc é 244"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 3",
+    enunciado: "Qual tipo de msc vc prefere?",
     alternativas: [
         {
-        texto:"Alternativa 1 da pergunta 3",
-        afirmacao: "Afirmação 1 da pergunta 3"
+        texto:"Funk",
+        afirmacao: "Manda mt, bom gosto"
         },
         {
-        texto:"Alternativa 2 da pergunta 3",
-        afirmacao: "Afirmação 2 da pergunta 3"
+        texto:"Pop",
+        afirmacao: "Vc queima ou não queima?"
         }
     ]
 }
